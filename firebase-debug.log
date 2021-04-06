@@ -1,0 +1,46 @@
+[debug] [2021-04-05T17:10:35.547Z] ----------------------------------------------------------------------
+[debug] [2021-04-05T17:10:35.551Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USA\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-05T17:10:35.552Z] CLI Version:   9.8.0
+[debug] [2021-04-05T17:10:35.552Z] Platform:      win32
+[debug] [2021-04-05T17:10:35.552Z] Node Version:  v12.18.3
+[debug] [2021-04-05T17:10:35.580Z] Time:          Mon Apr 05 2021 18:10:35 GMT+0100 (West Africa Standard Time)
+[debug] [2021-04-05T17:10:35.580Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-05T17:10:35.619Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-04-05T17:10:35.716Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-05T17:10:35.717Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\USA\Desktop\Amazon\amazon-clone
+
+[debug] [2021-04-05T17:11:50.169Z] ----------------------------------------------------------------------
+[debug] [2021-04-05T17:11:50.173Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USA\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-05T17:11:50.174Z] CLI Version:   9.8.0
+[debug] [2021-04-05T17:11:50.174Z] Platform:      win32
+[debug] [2021-04-05T17:11:50.174Z] Node Version:  v12.18.3
+[debug] [2021-04-05T17:11:50.176Z] Time:          Mon Apr 05 2021 18:11:50 GMT+0100 (West Africa Standard Time)
+[debug] [2021-04-05T17:11:50.176Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-05T17:11:50.181Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-04-05T17:11:50.221Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-05T17:11:50.222Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\USA\Desktop\Amazon\amazon-clone
+
+[debug] [2021-04-05T17:11:51.359Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2021-04-05T17:11:51.359Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
